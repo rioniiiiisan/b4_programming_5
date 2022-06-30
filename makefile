@@ -2,7 +2,7 @@
 
 CC := gcc
 OUTFILE := ./build/q5.out
-SOURCEFILE := ./src/q5.c
+SOURCEFILE := ./src/q5.c ./src/func.c
 CFLAGS := -o $(OUTFILE)
 CPPFLAGS :=
 LDFLAGS :=
